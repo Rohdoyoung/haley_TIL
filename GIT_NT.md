@@ -39,6 +39,23 @@
 
 
 
+`git branch` : 브랜치의 종류, 어느 브랜치인지 확인하기
+
+`git branch <브랜치>` :  브랜치 생성
+
+* 브랜치 생성 예시`git branch haley`
+* 이미 있는 브랜치 명을 작성했을땐 에러 발생
+
+`git checkout <브랜치명>` : 브랜치 이동
+
+* 없는 브랜치 명을 작성했을땐 에러 발생
+
+`git merge <브랜치명>` 
+
+
+
+
+
 ## 실습 (30분)
 
 1. `<username>`으로 repository 만들기
